@@ -1,3 +1,3 @@
 # Nikel
 
-This is a example repository to Codaí project.
+This is a example repository to [Codaí](https://codai.growdev.com.br) project.
