@@ -76,6 +76,7 @@ function checkLogged(){
 
 function saveAccount(data) {
     localStorage.setItem(data.login, JSON.stringify(data))
+    console.log(data);
 }
 
 function getAccount(key) {
